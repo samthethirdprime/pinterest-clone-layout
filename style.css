@@ -4,8 +4,8 @@
     box-sizing: border-box;
 }
 body{
-    background: white;
-    color:black;
+    background: black;
+    color:white;
     font-family:monospace;
     padding: 40px;
 
@@ -24,7 +24,7 @@ body{
 .move span{
     padding: 10px 20px;
     border-radius: 12px;
-    background: #fff;
+    background: black;
     white-space: nowrap;
     box-shadow: 0 2px 5px rgba(0,0,0,0,1);
     cursor: pointer;
@@ -43,8 +43,8 @@ body{
    
 }
 .grid-card{
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 10px rgba(0,0,0,0.1);
